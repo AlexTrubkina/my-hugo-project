@@ -1,4 +1,4 @@
 baseURL = 'https://alextrubkina.github.io/my-hugo-project/'
 languageCode = 'en-us'
 title = 'Мой сайт'
-theme = 'ananke'
+theme = 'ananke' 
